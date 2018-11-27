@@ -8,4 +8,4 @@ create button which by id get all data animal
 when customer log in check login and psw
 create page where customer may check on unique login
 
-use: spring mvc, json, hibernate, mysql, css.
+use: spring mvc, json, hibernate, mysql, css. 
